@@ -1,0 +1,20 @@
+# Core AI and NLP Libraries
+google-generativeai
+spacy
+textblob
+nltk
+
+# Speech-to-Text Conversion
+SpeechRecognition
+pyaudio # Often needed for microphone access, good to have
+pocketsphinx # For offline transcription with CMU Sphinx
+
+# Data Visualization for Dependency Graph
+networkx
+pyvis
+
+# Web Application Framework
+streamlit
+
+# Utility for audio file handling in the example
+pydub
