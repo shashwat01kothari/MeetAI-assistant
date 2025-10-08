@@ -12,6 +12,7 @@ pocketsphinx # For offline transcription with CMU Sphinx
 # Data Visualization for Dependency Graph
 networkx
 pyvis
+python-dotenv
 
 # Web Application Framework
 streamlit
