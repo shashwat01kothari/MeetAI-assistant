@@ -110,9 +110,9 @@ meeting-ai-assistant/
 ├── services/
 │   ├── __init__.py
 │   ├── speech_service.py
-│   ├── nlp_service.py
-│   └── llm_service.py
-│   └── graph_service.py
+│   ├── nlp_services.py
+│   └── llm_services.py
+│   └── graph_services.py
 │
 ├── utils/
 │   ├── __init__.py
