@@ -1,0 +1,19 @@
+# Core AI and NLP Libraries
+google-generativeai
+spacy
+textblob
+nltk
+
+# Speech-to-Text Conversion
+SpeechRecognition
+pyaudio
+
+# Data Visualization for Dependency Graph
+networkx
+pyvis
+
+# Web Application Framework
+streamlit
+
+# For handling .env file
+python-dotenv
