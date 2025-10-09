@@ -27,7 +27,7 @@ This project is built on a modular, agent-based architecture that separates conc
 
 ## 🛠️ Tech Stack
 
-*   **LLM API**: Google Gemini 1.5 Flash
+*   **LLM API**: Google Gemini 2.5 Flash lite
 *   **UI**: Streamlit
 *   **NLP**: spaCy, TextBlob
 *   **Speech-to-Text**: SpeechRecognition
